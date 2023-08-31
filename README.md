@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AshishSrvastava
-- 👀 I’m interested in scientific/engineering computing, biomedical computer vision, engineering education, and foreign languages
+- 👀 I’m interested in scientific/engineering computing, data-driven engineering, biomedical computer vision, engineering education, and foreign languages
 - 🌱 I’m currently studying chemical and biological engineering, and computational biology
-- 💞️ I’m looking to collaborate on anything!
 - 🌐 My website is: https://ashishsrvastava.github.io/
 - 📫 How to reach me: ashish (dot) srivastava (at) colorado.edu
 
